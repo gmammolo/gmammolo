@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Giuseppe Mammoliti
+# 👋 Hi, I'm Giuseppe Mammolo
 
 > **⚠️ Work in Progress** - This profile is currently being updated. Check back soon for more content!
 
