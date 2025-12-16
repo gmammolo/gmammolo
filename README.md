@@ -1,96 +1,71 @@
 # 👋 Hi, I'm Giuseppe Mammolo
 
-> **⚠️ Work in Progress** - This profile is currently being updated. Check back soon for more content!
 
----
 
 ## 🚀 About Me
 
-<!-- Brief introduction about yourself, your background, and what you do -->
-- 💼 Professional background and current role
-- 🎓 Education and qualifications
-- 🌍 Location and interests
-- 🎯 Career goals and aspirations
+- **💼 Professional background and current role**  
+  Research Technician, Department of Computer Science, University of Turin (UniTO)
 
----
+- **🎓 Education and qualifications**  
+  - B.Sc. in Computer Science, Department of Computer Science, University of Turin  
+  - MSc (nearly completed) in Artificial Intelligence, University of Turin  
+
+
+
 
 ## 🔭 Current Work
 
-<!-- What you're currently working on -->
-- Current projects and initiatives
-- Areas of focus
-- Technologies you're exploring
+I work as a **Research Technician** in the Department of Computer Science (Università degli Studi di Torino).  
+My responsibilities include:
 
----
+- **Research & Teaching Support** – assisting faculty and students with computational resources, software tools, and teaching activities.  
+- **HPC4AI Platform Development** – actively contributing to the design, implementation, and continuous improvement of the **HPC4AI** high‑performance‑computing platform used for AI research.  
+- **uTOpIA Development** – building **uTOpIA**, a web‑based LLM interface powered by **OpenWebUI**. The system connects to a custom backend that schedules model executions on **SLURM** job queues, enabling seamless interaction with large language models on the university’s HPC cluster.  
+- **Moodle Platform Management** – maintaining and extending the department’s Moodle ecosystem, which consists of **more than 20 separate instances** serving **over 40 000 students**.
 
-## 🛠️ Tech Stack & Skills
 
-<!-- Your technical skills and tools you work with -->
+### 📚 Previous Experience
+- Developed web software and web‑applications for the banking sector
 
-### Languages
-<!-- e.g., Python, JavaScript, Java, C++, etc. -->
 
-### Frameworks & Libraries
-<!-- e.g., React, Angular, Django, Spring Boot, etc. -->
+## 🛠️ Technical Skills
+- **Web development** (frontend & backend)  
+- **React** / **Angular.io**, **Python**, **PHP**  
+- 🖥️ **Linux System administration**
+- 📡 **Networking concepts & protocols**  
+- 🤖 **Foundations in Artificial Intelligence** & **Machine Learning**  
+- 🧠 **Large Language Models (LLMs)**  
+- ☁️ **OpenStack** cloud infrastructure  
 
-### Tools & Platforms
-<!-- e.g., Docker, Kubernetes, AWS, Git, etc. -->
+### 📚 Languages
+- Javascript
+  - PlainJavascript
+  - React/Nextjs
+  - Angular.io
+- Python
+- PHP
 
-### Other Skills
-<!-- e.g., Agile, CI/CD, System Design, etc. -->
+### 🛠️ Tools & Platforms
+- Docker
+- Kubernetes
+- Openstack
+- Git
+- SLURM
+- Moodle
 
----
+### 💻 Other Skills
+- Agile
+- CI/CD
+- System Design
+- Nextcloud
 
-## 📂 Featured Projects
-
-<!-- Highlight your best projects -->
-1. **Project Name** - Brief description
-2. **Project Name** - Brief description
-3. **Project Name** - Brief description
-
----
-
-## 🌱 Currently Learning
-
-<!-- What you're currently learning or exploring -->
-- New technologies or concepts
-- Courses or certifications you're pursuing
-
----
-
-## 👯 Collaboration & Interests
-
-<!-- What you're interested in collaborating on -->
-- Open source contributions
-- Types of projects you'd like to work on
-- Areas where you're looking for collaboration
-
----
-
-## 📊 GitHub Stats
-
-<!-- GitHub stats will be added here -->
-<!-- You can use services like github-readme-stats to display your stats -->
-
----
-
-## 📫 How to Reach Me
-
-<!-- Your contact information and social links -->
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
-
----
 
 ## 💡 Fun Facts
 
-<!-- Interesting things about you -->
-- Hobbies and interests outside of tech
-- Fun personal facts
-- What drives and motivates you
-
+- 🐶 **Animals** – happy owner of an very big dachshund!  
+- 🎮 **Video Games** – enjoy story-driven and immersive gaming experiences.  
+- 📜 **Tabletop Role‑Playing Games** – love gathering around the table for collaborative storytelling and strategy.
 ---
 
 <div align="center">
