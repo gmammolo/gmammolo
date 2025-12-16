@@ -32,11 +32,11 @@ My responsibilities include:
 ## 🛠️ Technical Skills
 - **Web development** (frontend & backend)  
 - **React** / **Angular.io**, **Python**, **PHP**  
-- 🖥️ **Linux System administration**
-- 📡 **Networking concepts & protocols**  
-- 🤖 **Foundations in Artificial Intelligence** & **Machine Learning**  
-- 🧠 **Large Language Models (LLMs)**  
-- ☁️ **OpenStack** cloud infrastructure  
+- **Linux System administration**
+- **Networking concepts & protocols**  
+- **Foundations in Artificial Intelligence** & **Machine Learning**  
+- **Large Language Models (LLMs)**  
+- **OpenStack** cloud infrastructure  
 
 ### 📚 Languages
 - Javascript
